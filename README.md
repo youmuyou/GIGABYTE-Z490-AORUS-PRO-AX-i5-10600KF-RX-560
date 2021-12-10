@@ -1,5 +1,5 @@
 # GIGABYTE-Z490-AORUS-PRO-AX-i5-10600KF-RX-560
-Hackintosh / Mac OS 12 EFI
+Hackintosh / Mac OS 12 EFI/OC 0.7.4
 	
 
 

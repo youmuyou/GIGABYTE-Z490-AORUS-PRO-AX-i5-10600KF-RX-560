@@ -23,7 +23,7 @@ Hackintosh / Mac OS 12 EFI
 FIWI，
 有线网卡，
 睡眠，
-USB
+USB。
 
 未确认工作的：
 

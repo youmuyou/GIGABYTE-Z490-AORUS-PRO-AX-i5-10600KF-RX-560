@@ -1,9 +1,7 @@
 # GIGABYTE-Z490-AORUS-PRO-AX-i5-10600KF-RX-560
 Hackintosh / Mac OS 12 EFI
 	
-电脑型号	技嘉 Z490 AORUS PRO AX 台式电脑  (扫描时间：2021年10月25日)
-操作系统	Windows 10 专业版 64位 ( DirectX 12 )
-	
+
 处理器	英特尔 Core i5-10600KF @ 4.10GHz 六核
 主板	技嘉 Z490 AORUS PRO AX ( LPC Controller - 0685 )
 内存	16 GB ( 威刚 DDR4 3200MHz )

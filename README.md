@@ -20,7 +20,7 @@ Hackintosh / Mac OS 12 EFI/OC 0.7.4
 
 显卡，
 蓝牙，
-FIWI，
+WI-FI，
 有线网卡，
 睡眠，
 USB。
